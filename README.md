@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm DT-Deville</h1>
+<h1 align="center">Hi 👋, I'm NAGI</h1>
 <h3 align="center">17 yr old</h3>
 
 <div align="center">
