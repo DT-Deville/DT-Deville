@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Tweaks, Windows 10 Bugs**
 
-- ⚡ Fun fact **I am Funny Person**
+- ⚡ Fun fact **I'm Funny Person**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
