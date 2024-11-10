@@ -2,7 +2,7 @@
 <h3 align="center">17 yr old</h3>
 
 <div align="center">
-  <img alt="Coding" width="450" src="https://cdn.discordapp.com/attachments/1203036358243782706/1203036464716455986/IMG_1054.png?ex=67319cc4&is=67304b44&hm=10835e268da2ed4851152c6f70b9f4b354b87490d5a314615414e6afa68537f3&">
+  <img alt="Coding" width="300" src="https://cdn.discordapp.com/attachments/1203036358243782706/1203036464716455986/IMG_1054.png?ex=67319cc4&is=67304b44&hm=10835e268da2ed4851152c6f70b9f4b354b87490d5a314615414e6afa68537f3&">
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dt-deville&label=Profile%20views&color=0e75b6&style=flat" alt="dt-deville" /> </p>
