@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dt-deville" alt="dt-deville" /></a> </p>
 
-- 🌱 I’m currently learning **C++ & C# **
+- 🌱 I’m currently learning **C++  C# **
 
 - 💬 Ask me about **Tweaks, Windows 10 Bugs**
 
