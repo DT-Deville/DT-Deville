@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm NAGI</h1>
+<h1 align="center">Hi 👋, I'm Mika</h1>
 <h3 align="center">17 Dream Team</h3>
 
 <div align="center">
