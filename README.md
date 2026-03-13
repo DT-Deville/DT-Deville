@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **C++  C# **
 
-- 💬 Ask me about **Tweaks, Windows 10 Bugs**
+- 💬 Ask me about **Fitness, PC Problem**
 
 - ⚡ Fun fact **I'm Funny Person**
 
